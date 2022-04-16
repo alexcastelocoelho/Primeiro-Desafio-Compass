@@ -1,4 +1,4 @@
-#  Primeiro desafio do programa de bolsas Node.js - Compass.Uol
+#  Sprint 1 - PB Node.js - Compass.Uol
 
 ##  👨‍💻   Alex Coelho 
 
@@ -9,10 +9,10 @@ O scrum sendo uma metodologia agil nos permite executar projetos complexos na qu
 No Scrum os projetos são divididos em ciclos chamados de Sprints. A sprint representa um time box na qual um conjunto de atividades deve ser realizada. No inicio de uma sprint é feita a sprint planning que nada mais é do que uma reunião de planejamento na qual o Product Owner prioriza quais tarefas precisam ser realizadas e a equipe seleciona quais atividades ela vai implementar nessa sprint. Assim, a cada dia dessa sprint é feita uma reunião rapida chamada daily, onde cada participante informa o que fez ontem, o que fara hoje e se teve impedimentos. Ao final de uma sprint a equipe apresenta as funcionalidades feitas em uma Sprint Review Meeting. 
 
 ### 3.  O que é Git?   
-É um sistema de controle de versões que permitem registrar as alterações feitas, onde armazena essas mudanças e permite com que o usuário possa navegar entre as versões.
+É um sistema de controle de versões que permite registrar as alterações feitas, onde armazena essas mudanças e permite com que o usuário possa navegar entre as versões.
 
 ### 4.  O que é um scrum Product Owner?  
-O Product Owner atua como sendo um representante do cliente, onde ele conhece quais são as necessidades do cliente, e com isso ele deve definir quais são os recursos e passos para para concluir essa necessidades. Sendo assim, ele orienta o time, bem como controla a lista de tarefas(Product Backlog) que precisa ser feita pelo time de desenvolvimento.
+O Product Owner atua como sendo um representante do cliente, onde ele conhece quais são as necessidades do cliente, e com isso ele deve definir quais são os recursos e passos para para concluir essas necessidades. Sendo assim, ele orienta o time, bem como controla a lista de tarefas(Product Backlog) que precisa ser feita pelo time de desenvolvimento.
 
 ### 5.  Qual o comando para criação de um novo repositório no Git?   
 ```bash
@@ -26,7 +26,8 @@ git init
 O  cliente faz requisições através do navegador de internet usando  métodos http ao servidor Web. O servidor, por sua vez, responde  através de um código de status, que informa o que ocorreu com a requisição.
 
 ### 8.	Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?   
-Git add nome-arquivo ou git add . 
+Git add nome-arquivo 
+ 
 
 ### 9.	O que é a Branch master e para que serve?   
 A branch master é parte principal em um projeto usando git, onde tudo que foi produzido e esteja funcionando deve está. A criação de outras branches permite com que trabalhemos e desenvolvamos sem a necessidade de interferir na master ainda. caso haja necessidade de unir o que foi produzido nas branchs criadas com a master, basta usar o git merge.
@@ -48,9 +49,9 @@ para fazer merge de uma outra branch na sua branch ativa usamos:
 ```
 ### 11. Pensando em Bases de dados, sendo elas, Relacionais (SQL) e Não Relacionais (NoSQL). Quais alternativas abaixo estão corretas?   
 - [ ] a.MySQL = MongoDB  
-- [x] b.PostgreSQL = Redis   
+- [ ] b.PostgreSQL = Redis   
 - [ ] c.Oracle = CouchDB   
-- [ ] d.Todas as alternativas estão corretas.   
+- [x] d.Todas as alternativas estão corretas.   
 
 
 ### 12.	O que é MongoDB?    
