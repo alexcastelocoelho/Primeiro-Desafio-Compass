@@ -1,12 +1,12 @@
-#  Primeiro desafio do programa de bolsas Node.js - Compass.UOL
+#  Primeiro desafio do programa de bolsas Node.js - Compass.Uol
 
 ##  👨‍💻   Alex Coelho 
 
 ### 1. Para que serve o método Scrum?    
-o scrum sendo uma metodologia agil nos permite executar projetos complexos na qual ainda não se conhece todas as etapas e necessidades. Assim, ele torna os processos simples e objetivos, mantendo registros sobre o andamentos nas etapas e fazendo com que os participantes da metodologia saibam como está indo o projeto, o que já foi feito e o que falta para ser entregue.
+O scrum sendo uma metodologia agil nos permite executar projetos complexos na qual ainda não se conhece todas as etapas e necessidades. Assim, ele torna os processos simples e objetivos, mantendo registros sobre o andamentos nas etapas e fazendo com que os participantes da metodologia saibam como está indo o projeto, o que já foi feito e o que falta para ser entregue.
 
 ### 2. Como funciona o método Scrum?  
-no Scrum os projetos são divididos em ciclos chamados de Sprints. A sprint representa um time box na qual um conjunto de atividades deve ser realizada. No inicio de uma sprint é feita a sprint planning que nada mais é do que uma reunião de planejamento na qual o Product Owner prioriza quais tarefas precisam ser realizadas e a equipe seleciona quais atividades ela vai implementar nessa sprint. Assim, a cada dia dessa sprint é feita uma reunião rapida chamada daily, onde cada participante informa o que fez ontem, o que fara hoje e se teve impedimentos. Ao final de uma sprint a equipe apresenta as funcionalidades feitas em uma Sprint Review Meeting. 
+No Scrum os projetos são divididos em ciclos chamados de Sprints. A sprint representa um time box na qual um conjunto de atividades deve ser realizada. No inicio de uma sprint é feita a sprint planning que nada mais é do que uma reunião de planejamento na qual o Product Owner prioriza quais tarefas precisam ser realizadas e a equipe seleciona quais atividades ela vai implementar nessa sprint. Assim, a cada dia dessa sprint é feita uma reunião rapida chamada daily, onde cada participante informa o que fez ontem, o que fara hoje e se teve impedimentos. Ao final de uma sprint a equipe apresenta as funcionalidades feitas em uma Sprint Review Meeting. 
 
 ### 3.  O que é Git?   
 É um sistema de controle de versões que permitem registrar as alterações feitas, onde armazena essas mudanças e permite com que o usuário possa navegar entre as versões.
@@ -21,8 +21,10 @@ git init
 
 ### 6.  O que é o HTTP?   
 É um protocolo de comunicação que proporciona regras de comunicação entre cliente e servidor na internet
+
 ### 7. Como funciona o HTTP?   
 O  cliente faz requisições através do navegador de internet usando  métodos http ao servidor Web. O servidor, por sua vez, responde  através de um código de status, que informa o que ocorreu com a requisição.
+
 ### 8.	Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?   
 Git add nome-arquivo ou git add . 
 
@@ -32,17 +34,17 @@ A branch master é parte principal em um projeto usando git, onde tudo que foi p
 ### 10.	Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?   
   ```
   Para atualizar o repositório local e mandar pro github usamos:  
-		- Git add nome-arquivo  
-		- Git commit -m “mensagem de  commit”  
-		- Git push nome-repositório-remoto nome-branch  `
+	- Git add nome-arquivo  
+	- Git commit -m “mensagem de  commit”  
+	- Git push nome-repositório-remoto nome-branch  `
   ``` 
   ```
-	Para atualizar sua branch local com as atualizações da branch remota usamos:  
-		- Git pull
+  Para atualizar sua branch local com as atualizações da branch remota usamos:  
+	- Git pull
    ```   
 ```
-	para fazer merge de uma outra branch na sua branch ativa usamos:  
-		- git merge nome-da-branch
+para fazer merge de uma outra branch na sua branch ativa usamos:  
+  - git merge nome-da-branch
 ```
 ### 11. Pensando em Bases de dados, sendo elas, Relacionais (SQL) e Não Relacionais (NoSQL). Quais alternativas abaixo estão corretas?   
 - [ ] a.MySQL = MongoDB  
@@ -95,7 +97,8 @@ A extensão que contem os dados da tabela é a .myd
 para extrair arquivos no macOs usamos:   
 tar -zxvf mongodb-macos-x86_64-1.0.tgz  
 para extrair arquivos no linux usamos:  
-tar -xvzf arquivo-tgz
+tar -xvzf arquivo-tgz  
+no windows não precisamos extrair arquivos
 
 ### 22.	Para que usamos o MongoDB?  
 É usado no armazenamento de grandes quantidades de dados, na qual o trabalho com ele é mais eficiente.
