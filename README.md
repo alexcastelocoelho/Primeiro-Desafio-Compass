@@ -72,7 +72,7 @@ pode ser usado o 201 que informa que requisição foi bem sucedida e um novo rec
 
 ### 17.	Quais são os três status code que modem ser utilizados para realizar o delete?   
 202, 204 e 200.      
-o 202 informa que a ação provavelmente teve sucesso, mas ainda nao foi feita.  
+o 202 informa que a ação teve sucesso, mas ainda nao foi feita.  
 o 204 informa se a ação foi realizada e nenhuma outra informação deve ser fornecida e o 200 se a ação foi realizada e a mensagem de respota inclui uma representação descrevendo o status.
 
 ### 18.	Qual a extensão ".xxx" contêm as definições da tabela?  
