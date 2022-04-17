@@ -51,7 +51,7 @@ para fazer merge de uma outra branch na sua branch ativa usamos:
 - [ ] a.MySQL = MongoDB  
 - [ ] b.PostgreSQL = Redis   
 - [ ] c.Oracle = CouchDB   
-- [x] d.Todas as alternativas estão corretas.   
+- [x] d.Todas as alternativas estão corretas.  <- correta  
 
 
 ### 12.	O que é MongoDB?    
@@ -80,7 +80,7 @@ o 204 informa se a ação foi realizada e nenhuma outra informação deve ser fo
 
 ### 18.	Qual a extensão ".xxx" contêm as definições da tabela?  
 - [ ]  a.Commands.myi   
-- [x]  b.Commands.frm   
+- [x]  b.Commands.frm   <- correta
 - [ ]  c.Commands.myd    
 - [ ]  d.{mysqlDirectory}/data   
 
@@ -88,7 +88,7 @@ o 204 informa se a ação foi realizada e nenhuma outra informação deve ser fo
 Nessa pasta de dados, quais opções apresentam o caminho correto para acessar os bancos de dados que foram denominados?   
 - [ ]   a./{database_name_folder}/{database_tables_and_files}.   
 - [ ]   b.C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.frm   
-- [x]   c.C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.ibd   
+- [x]   c.C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.ibd  <- correta 
 - [ ]   d.C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\data-recovery   
 
 ### 20.	Qual a extensão ".xxx" que contêm os dados da tabela?     
