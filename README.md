@@ -12,7 +12,7 @@ No Scrum os projetos são divididos em ciclos chamados de Sprints. A sprint repr
 É um sistema de controle de versões que permite registrar as alterações feitas, onde armazena essas mudanças e permite com que o usuário possa navegar entre as versões.
 
 ### 4.  O que é um scrum Product Owner?  
-O Product Owner atua como sendo um representante do cliente, onde ele conhece quais são as necessidades do cliente, e com isso ele deve definir quais são os recursos e passos para para concluir essas necessidades. Sendo assim, ele orienta o time, bem como controla a lista de tarefas(Product Backlog) que precisa ser feita pelo time de desenvolvimento.
+O Product Owner atua como sendo um representante do cliente, onde ele conhece quais são as necessidades do cliente, e com isso ele deve definir quais são os recursos e passos para concluir essas necessidades. Sendo assim, ele orienta o time, bem como controla a lista de tarefas(Product Backlog) que precisa ser feita pelo time de desenvolvimento.
 
 ### 5.  Qual o comando para criação de um novo repositório no Git?   
 ```bash
@@ -30,7 +30,7 @@ Git add nome-arquivo
  
 
 ### 9.	O que é a Branch master e para que serve?   
-A branch master é parte principal em um projeto usando git, onde tudo que foi produzido e esteja funcionando deve está. A criação de outras branches permite com que trabalhemos e desenvolvamos sem a necessidade de interferir na master ainda. caso haja necessidade de unir o que foi produzido nas branchs criadas com a master, basta usar o git merge.
+A branch master é parte principal em um projeto usando git, onde tudo que foi produzido e esteja funcionando deve está. A criação de outras branches permite com que trabalhemos sem a necessidade de interferir na master ainda, contribuindo para um bom trabalho em equipe. caso haja necessidade de unir o que foi produzido nas branchs criadas junto a master, basta usar o git merge.
 
 ### 10.	Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?   
   ```
